@@ -110,3 +110,5 @@ func main() {
 - [ ] Alternatively, we can create a Windows executable using the ```#!bash go build```, very similar to how we used the GCC command in COMP 211 when compiling C programs as runnables. This command, unlike ```#!bash go run .```, only compiles our program instead of running it. 
 - [ ] Run the executable using ```#!bash ./hello-go``` on Macbook or ```#!bash hello-go.exe```. It should have the same output as the ```go run . ``` command above.
 
+### Conclusion
+Congratulations! You've successfully run a Go Tutorial and configured a development environment. This foundational skill can be applied to many open-source and professional projects. 
