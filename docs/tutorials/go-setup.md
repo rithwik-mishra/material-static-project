@@ -3,9 +3,6 @@
 * Reviewer: [arshm06](https://github.com/arshm06)
 
 ## Prerequisites
-- **Go Installation:** If you don't already have Go installed, follow the download and install steps [here](https://go.dev/doc/install)
-???+ note
-    Check which version of Go you have installed using ```#!go go version``` command. This tutorial uses Go 1.23.X
 - **A GitHub account:** Make sure you have an existing GitHub account or sign up [here](https://github.com/)
 - **Git Installation:** Install Git [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) if you do not have a preexisting installation.
 - **A coding IDE:** VS Code is a great option for all platforms and is the one used by this tutorial.
